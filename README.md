@@ -4,7 +4,7 @@
 The Electronic Store Management Software is a stock management software specifically for the needs of a Electronic Store.
 The software is built with C#, .NET framework and SQLite, making it a reliable and efficient tool for managing information of the stock.
 
-## Features
+## Features 
 The software gives the user the possibility to:
 - Login with a Username and Password of your role (admin or employee).
 
