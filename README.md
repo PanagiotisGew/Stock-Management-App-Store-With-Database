@@ -1,4 +1,4 @@
-# Electronic Store Management Software 
+# Electronic Store Management Software. 
 
 ## Description
 The Electronic Store Management Software is a stock management software specifically for the needs of a Electronic Store.
@@ -49,7 +49,6 @@ The **Usernames and Passwords** are:
 - [![Ingkli Boja](https://github.com/ingli0)]: Developer
 - [![George Ntolias](https://github.com/FriedImage)]: Product Manager
 - [![Panagiotis Georgiadis](https://github.com/PanagiotisGew)]: Project Manager
-- [![Bletsas Apostolos](https://github.com/ApBletsas)]: Tester
 
 ## Licence
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
